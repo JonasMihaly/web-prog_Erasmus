@@ -8,6 +8,7 @@
    <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/js/splide.min.js"></script>
        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@2.4.21/dist/css/splide.min.css">
  <link rel="stylesheet" href="css/style.css">
+
 <?php
 include('./includes/config.inc.php');
 

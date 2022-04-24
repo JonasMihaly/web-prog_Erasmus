@@ -11,7 +11,7 @@ if(isset($_POST['felhasznalo']) && isset($_POST['jelszo']) && isset($_POST['veze
         $sth = $dbh->prepare($sqlSelect);
         $sth->execute(array(':bejelentkezes' => $_POST['felhasznalo']));
         if($row = $sth->fetch(PDO::FETCH_ASSOC)) {
-            $uzenet = "A felhasználói név már foglalt!";
+            $uzenet = "The application name is occupied already!";
             $ujra = "true";
         }
         else {
@@ -23,17 +23,17 @@ if(isset($_POST['felhasznalo']) && isset($_POST['jelszo']) && isset($_POST['veze
                                  ':bejelentkezes' => $_POST['felhasznalo'], ':jelszo' => sha1($_POST['jelszo']))); 
             if($count = $stmt->rowCount()) {
                 $newid = $dbh->lastInsertId();
-                $uzenet = "A regisztrációja sikeres.<br>Azonosítója: {$newid}";                     
+                $uzenet = "The registration is successful.<br>ID: {$newid}";                     
                 $ujra = false;
             }
             else {
-                $uzenet = "A regisztráció nem sikerült.";
+                $uzenet = "The registration did not succeed.";
                 $ujra = true;
             }
         }
     }
     catch (PDOException $e) {
-        $uzenet = "Hiba: ".$e->getMessage();
+        $uzenet = "Error: ".$e->getMessage();
         $ujra = true;
     }      
 }

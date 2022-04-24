@@ -5,8 +5,8 @@
 <body>
 
 	<div class=container>
-	<h5> <br> <strong> CÉLJAINK <br> ____ <strong> <h5>
-	<h4> <br> – Az európai színvonalú sportolási lehetőségek megteremtése. Ingyenes, fedett gördeszka pálya létrehozása! A versenyszerű és szabadidő sportolók támogatása. Utánpótlásnevelés és oktatás, a sportág népszerűsítése. Az egészséges életmód népszerűsítése. Gyermek és ifjúságvédelem, valamint hátrányos helyzetű gyermekek támogatása.Versenyszervezés. Magyar Gördeszka Bajnokság és az ahhoz kapcsolódó rendezvények szervezése. <br><br> <h4>
+	<h5> <br> <strong> AMBITION <br> ____ <strong> <h5>
+	<h4> <br> – The creation of the sport opportunities with an European standard. The formation of an orbit is a free, covered skateboard! The competitive one and a spare time are sportsmen's supports. The popularisation of supply upbringing and education, the sport. The popularisation of the healthy lifestyle. Child and youth protection, and underprivileged children's support. Competition organization. Hungarian Skateboard Champion and the programs' being connected to it organization. <br><br> <h4>
 	<br>
 	<br>
 	</div>
@@ -14,7 +14,7 @@
 	<br>
 	<br>
 	<h6> 
-	<a href="http://www.magyardeszkasok.hu/"> MAGYAR DESZKÁSOK ORSZÁGOS EGYESÜLETE <a> 
+	<a href="https://www.facebook.com/MagyarDeszkasokOrszagosEgyesulete/"> HUNGARIAN SKATEBOARD NATIONAL SOCIETY <a> 
 	</h6>
 	<br>
 	</div>

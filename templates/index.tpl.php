@@ -28,7 +28,7 @@
 		
 		
 		</ul>
-		<?php if(isset($_SESSION['login'])) { ?><h4 id="bejelen"><center> <strong>Üdvözlöm:</strong><?= $_SESSION['csn']." ".$_SESSION['un']." (".$_SESSION['login'].")" ?></h4><?php } ?>
+		<?php if(isset($_SESSION['login'])) { ?><h4 id="bejelen"><center> <strong>Welcome:</strong><?= $_SESSION['csn']." ".$_SESSION['un']." (".$_SESSION['login'].")" ?></h4><?php } ?>
 	</header>
 	</nav>
     <div id="wrapper">

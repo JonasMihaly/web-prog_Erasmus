@@ -4,7 +4,7 @@
             <div id="kulso" class="card">
                 <div id="kulso" class="card-body text-center">
 				 </p>  <div id="kulso" class="bej"> <p class="inset"> </p>
-<h5><strong>Kilépett:</strong></h5>
+<h5><strong>Logout:</strong></h5>
 <h4> <center> <?= $data['csn']." ".$data['un']." (".$data['login'].")" ?> </h4>
 <br>
 <br>

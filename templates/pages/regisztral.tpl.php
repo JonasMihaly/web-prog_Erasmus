@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Regisztráció</title>
+        <title>Registration</title>
         <meta charset="utf-8">
     </head>
     <body>
@@ -15,7 +15,7 @@
             <h5><?= $uzenet ?></h5>
             <?php if($ujra) { ?>
 			<br>
-                <h6><a href="pelda.html">Próbálja újra!</a></h6>
+                <h6><a href="pelda.html">Try again!</a></h6>
             <?php } ?>
         <?php } ?>
 		<br>

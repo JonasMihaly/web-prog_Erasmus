@@ -8,10 +8,10 @@
 			<tr >
 				<th class="text" width="50%"> 
 					<h1> <strong>2017-05-03 / PÁSZTI PÉTER<br> <br> <strong><h1>
-					<h2> <strong>KÓNY MAJÁLIS 2017 <br> ______ <strong><h2>
-					<h3> <br> Május 1-én a kónyi Majálison jártunk gördeszka <br> bemutatóval, és egész napos oktatással.   Az idő… <strong> <br><br> <h3>
+					<h2> <strong>KÓNY PICNIC IN MAY 2017 <br> ______ <strong><h2>
+					<h3> <br> May we had been on the Kóny picnic in May on 1 skateboard <br> with a show, and with round-a-clock education. The time… <strong> <br><br> <h3>
 					<b>
-					<a href="http://www.magyardeszkasok.hu/kony-majalis-2017/"><strong> Tovább (Eredeti oldal)<strong></a>
+					<a href="https://www.facebook.com/MagyarDeszkasokOrszagosEgyesulete/"><strong> Continue (Offical page (Facebook))<strong></a>
 					</b>
 				</th>
 				<th class="pic" width="50%"> <img src="./images/kep01.jpg" align=center width=550.25 height=300.33> </td>	
@@ -23,10 +23,10 @@
 				<th class="pic" width="50%"> <img src="./images/kep02.jpg" align=center width=550.25 height=300.33> </th>
 				<th class="text" width="50%"> 
 					<h1> <br> <strong>2017-03-27 / PÁSZTI PÉTER<br> <br> <strong><h1>
-					<h2> <strong>FELMÉRÉS A MAGYAR <br> GÖRDESZKÁZÁSRÓL <br> ______ <strong><h2>
-					<h3> <br> Gördeszkások figyelem! Az alábbi rövid kérdőív kitöltésére <br> és megosztásra kérünk benneteket! Nagyon fontos ez a… <strong> <br><br> <h3>
+					<h2> <strong>SURVEY THE HUNGARIAN <br> FOR SKATEBOARDING <br> ______ <strong><h2>
+					<h3> <br> Skateboard attention! We ask you for the filling in of the undermentioned short questionnaire <br> and sharing! This is very important this the… <strong> <br><br> <h3>
 					<b>
-					<a href="http://www.magyardeszkasok.hu/felmeres-magyar-gordeszkazasrol/"><strong> Tovább (Eredeti oldal)<strong></a>
+					<a href="https://www.facebook.com/MagyarDeszkasokOrszagosEgyesulete/"><strong> Continue (Offical page (Facebook))<strong></a>
 					</b>
 				</th>	
 			</tr>
@@ -36,10 +36,10 @@
 			<tr >
 				<th class="text" width="50%"> 
 					<h1><br> <strong>2016-10-19 / MDOE<br> <br> <strong><h1>
-					<h2> <strong>OLIMPIAI SPORTÁG LETT A<br> GÖRDESZKÁZÁS<br> ______ <strong> <h2>
-					<h3> <br> Van aki egyetért vele, van aki megbotránkozik a hír <br> hallatán… de a 2020-as tokioi olimpián…<strong> <br><br> <h3>
+					<h2> <strong>THE SKATEBOARD WAS <br> AN OLIMPIC SPORT<br> ______ <strong> <h2>
+					<h3> <br> Is who agrees with him is who is scandalized the news was audible <br> but the 2020 tokioi on Olympic Games…<strong> <br><br> <h3>
 					<b>
-					<a href="http://www.magyardeszkasok.hu/gordeszkazas-az-olimpian/"><strong> Tovább(Eredeti oldal)<strong></a>
+					<a href="https://www.facebook.com/MagyarDeszkasokOrszagosEgyesulete/"><strong> Continue (Offical page (Facebook))<strong></a>
 					</b>
 				</th>
 				<th class="pic" width="50%"> <img src="./images/kep03.jpg" align=center width=550.25 height=300.33> </td>	
@@ -51,10 +51,10 @@
 				<th class="pic" width="50%"> <img src="./images/kep04.jpg" align=center width=550.25 height=300.33> </th>
 				<th class="text" width="50%"> 
 					<h1> <br><strong>2016-10-18 / MDOE<br> <br> <strong><h1>
-					<h2> <strong>SNEAKER STARS FÉLCSŐ <br> VERSENY <br> ______ <strong><h2>
-					<h3> <br> Szeptember 3-án a belváros szívében, az Akvárium <br> Klubban- került megrendezésre Magyarország<br> legnagyobb sneaker fesztiválja, a…<strong> <br><br> <h3>
+					<h2> <strong>SNEAKER STARS HALF <br> PIPE COMPETITION <br> ______ <strong><h2>
+					<h3> <br> September on 3 in the downtown's heart, the aquarium <br> was found in a club organizing Hungary<br> the festival of largest sneaker, the…<strong> <br><br> <h3>
 					<b>
-					<a href="http://www.magyardeszkasok.hu/sneaker-stars-felcso-verseny/"><strong> Tovább(Eredeti oldal)<strong></a>
+					<a href="https://www.facebook.com/MagyarDeszkasokOrszagosEgyesulete/"><strong> Continue (Offical page (Facebook))<strong></a>
 					</b>
 				</th>	
 			</tr>
@@ -64,10 +64,10 @@
 			<tr >
 				<th class="text" width="50%"> 
 					<h1> <br><strong>2016-09-28 / MDOE<br> <br> <strong><h1>
-					<h2> <strong>CSALÁDI NAP A<br> HUNGARORINGEN 2016 <br> ______ <strong><h2>
-					<h3> <br> A Magyar Deszkások Országos Egyesületének tagjaival a <br> Hungaroringen jártunk, ahol a “Legendák Találkozása – <br>Opel…<strong> <br><br> <h3>
+					<h2> <strong>FAMILY DAY<br> ON HUNGARORING 2016 <br> ______ <strong><h2>
+					<h3> <br> The Hungarian Skateboard National Society with member on <br> Hungaroring, where the “The encounter of legends – <br>legends…<strong> <br><br> <h3>
 					<b>
-					<a href="http://www.magyardeszkasok.hu/csaladi-nap-a-hungaroringen-2016/"><strong> Tovább (Eredeti oldal)<strong></a>
+					<a href="https://www.facebook.com/MagyarDeszkasokOrszagosEgyesulete/"><strong> Continue (Offical page (Facebook))<strong></a>
 					</b>
 				</th>
 				<th class="pic" width="50%"> <img src="./images/kep05.jpg" align=center width=550.25 height=300.33> </td>	
@@ -88,7 +88,7 @@
 <br>
 <br>
 <h6> 
-	<a href="http://www.magyardeszkasok.hu/"> MAGYAR DESZKÁSOK ORSZÁGOS EGYESÜLETE <a> 
+	<a href="https://www.facebook.com/MagyarDeszkasokOrszagosEgyesulete/"> HUNGARIAN SKATEBOARD NATIONAL SOCIETY <a> 
 </h6>
 <br>
 </div>

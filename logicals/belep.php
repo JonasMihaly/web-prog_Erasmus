@@ -16,7 +16,7 @@ if(isset($_POST['felhasznalo']) && isset($_POST['jelszo'])) {
         }
     }
     catch (PDOException $e) {
-        $errormessage = "Hiba: ".$e->getMessage();
+        $errormessage = "Error: ".$e->getMessage();
     }      
 }
 else {

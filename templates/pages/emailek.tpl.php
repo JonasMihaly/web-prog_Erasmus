@@ -8,7 +8,7 @@
 				
 <table id="tablazat" class="table table-bordered" >
 <thead align=center>
-<tr><th>Id</th><th>Küldő</th><th>Tárgy</th><th>Üzenet</th></tr></thead>
+<tr><th>Id</th><th>Sender</th><th>Object</th><th>Message</th></tr></thead>
 <?php
 
 try{

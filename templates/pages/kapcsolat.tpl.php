@@ -11,16 +11,16 @@
 						<tr><img id="arnyek" src="./images/menu/kapcsolat.jpg" align=right width=500 height=616>
 						</tr>
 						<tr>
-						<td><input class="long" align=center type=text name=kuldo placeholder="Küldő" required>
+						<td><input class="long" align=center type=text name=kuldo placeholder="Sender" required>
 						<br>
 						<br>
-						<input class="long" align=center type=text name=targy placeholder="Tárgy" required></td>
+						<input class="long" align=center type=text name=targy placeholder="Object" required></td>
 						<br>
 						<br>
-						<tr><td> <textarea  rows="21" cols="70" name=uzenet placeholder="Üzenet..."></textarea></td></tr>
+						<tr><td> <textarea  rows="21" cols="70" name=uzenet placeholder="Message..."></textarea></td></tr>
 						<br>
 						<br>						
-						<br><input  type=submit class="button" name=gomb value="Küldés" align="right" ><br>
+						<br><input  type=submit class="button" name=gomb value="Send" align="right" ><br>
 					</th>
 				
 				  </form>
@@ -48,7 +48,7 @@ $stmt->execute(array(':kuldo' => $_POST['kuldo'], ':targy' => $_POST['targy'],
 catch(PDOException $e)
 {
 	
-	echo "Hiba: ".$e->getMessage();
+	echo "Error: ".$e->getMessage();
 	
 }
 }
